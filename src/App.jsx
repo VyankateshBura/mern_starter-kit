@@ -1,8 +1,11 @@
 import React from 'react'
+import List from './WrappedListComponent'
 
 const App = () => {
   return (
-    <div>Hello World</div>
+   
+      <List />
+    
   )
 }
 
